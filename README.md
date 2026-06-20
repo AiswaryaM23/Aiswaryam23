@@ -35,12 +35,12 @@
 | 🔹 Application UIs with Java Swing | 🔹 Python Programming |
 | 🔹 Database Integration | 🔹 C Programming |
 | 🔹 Data Visualization Tools | 🔹 Visual Studio Code |
-| 🔹 Report Generation Logic | 🔹 Artificial Intelligence Fundamentals |
+| 🔹 Report Generation Logic | 🔹 Object-Oriented Design |
 
-### 🌟 Featured Project: Carbon Emission Calculator
-* **Tech Stack:** Developed using Java Swing.
-* **Backend Logic:** Developed a database to store user activity logs and generate reports that aid in self-assessment.
-* **Data Visualization:** Developed a data visualization tool that presents emission trends through charts and reports, enabling users to track their progress over time.
+### 🤖 AI & Machine Learning Focus
+* **Core Specialization:** Academic focus on Artificial Intelligence algorithms and foundational concepts.
+* **Programming:** Utilizing **Python** for problem-solving, logic building, and data handling.
+* **Analytics & Data:** Experience in structuring databases, building data visualization tools, and generating analytical reports.
 
 ---
 
